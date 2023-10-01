@@ -11,6 +11,7 @@
 		605B2F862AC96FFB00DFC896 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605B2F852AC96FFB00DFC896 /* ContentView.swift */; };
 		605B2F882AC96FFD00DFC896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 605B2F872AC96FFD00DFC896 /* Assets.xcassets */; };
 		605B2F8B2AC96FFD00DFC896 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 605B2F8A2AC96FFD00DFC896 /* Preview Assets.xcassets */; };
+		605B2F922AC970F800DFC896 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605B2F912AC970F800DFC896 /* TabBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		605B2F852AC96FFB00DFC896 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		605B2F872AC96FFD00DFC896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		605B2F8A2AC96FFD00DFC896 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		605B2F912AC970F800DFC896 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				605B2F832AC96FFB00DFC896 /* CarefulScrollSwiftUIApp.swift */,
 				605B2F852AC96FFB00DFC896 /* ContentView.swift */,
+				605B2F912AC970F800DFC896 /* TabBarView.swift */,
 				605B2F872AC96FFD00DFC896 /* Assets.xcassets */,
 				605B2F892AC96FFD00DFC896 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				605B2F862AC96FFB00DFC896 /* ContentView.swift in Sources */,
+				605B2F922AC970F800DFC896 /* TabBarView.swift in Sources */,
 				605B2F842AC96FFB00DFC896 /* CarefulScrollSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
